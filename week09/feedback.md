@@ -14,8 +14,8 @@ This assignment was focused on the use of Python and Pandas to load and visualiz
 * **Very nice job on your observations for 41.1, 41.2, 41.3, and 41.4.**
 * 1pt - 41.1 - Nice job.
 * 1pt - 41.2 - Nice job.
-* 1pt - 41.3 - Nice job.
-* 1pt - 41.4 **(-0.5)** You've made some correct statements about the data, but you should include more comparisons among the providers.
+* 1pt - 41.3 **(-0.5)** You've made some correct statements about the data, but you should include more comparisons among the providers.
+* 1pt - 41.4 - Nice job.
 
 ## Second Half: 41.5
 * 2pts **(-0.5)** Where is this data from? Where would I go to find this data? Your first visualization is good.
