@@ -3,7 +3,9 @@ Each week, you'll receive a feedback file in GitHub showing a final grade and an
 
 
 
-## Final Score: 9/10
+## Final Score: 10/10
+
+**Updated 11/20**
 
 ## Part 1: Multiple Choice
 * 3 pts - You got all the correct answers
