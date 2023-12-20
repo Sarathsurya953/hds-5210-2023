@@ -3,7 +3,9 @@ Each week, you'll receive a feedback file in GitHub showing a final grade and an
 
 
 
-## Final Score: 9/10
+## Final Score: 5/10
+
+**Updated 12/20 - After rewriting some of the code and doing additional work, I've decided to award you 5 points**
 
 ## Assignment 1: Multiple Choice
 * 3 pts - You got all the correct answers
